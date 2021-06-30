@@ -30,7 +30,7 @@ def graphics_engine(screen, screen_width, screen_height, screen_gutter_size, col
                 screen,
                 (color_kv[circle_size][0], color_kv[circle_size][1], color_kv[circle_size][2]),
                 (screen_gutter_size + x_adjust + circle_size // 2, screen_height // 2),
-                circle_size//2
+                circle_size // 2
             )
 
             x_adjust += circle_size
