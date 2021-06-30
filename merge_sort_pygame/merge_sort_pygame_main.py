@@ -99,7 +99,7 @@ def start():
         # will center all circles to center of screen
         screen_gutter_size = (screen_width - sum(randomized_numbers_scaled)) // 2
 
-        # assigns each number and color random color to a key/value pear (color_kv)
+        # assigns each number and color random color to a key/value pair (color_kv)
         color_kv = {}
         for random_number in randomized_numbers_scaled:
             colorR = random.randint(100, 255)
