@@ -1,5 +1,5 @@
+# MERGE SORT with PYGAME
 ![merge_sort_visualization](https://user-images.githubusercontent.com/86641253/166405429-df56f776-8591-4a43-817c-9d911732bad8.png)
-# merge_sort_pygame
 Visualization of Merge Sort in action with Pygame
 
 MERGE SORT VISUALIZED WITH PYGAME
