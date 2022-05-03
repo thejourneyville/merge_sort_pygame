@@ -10,7 +10,7 @@ def graphics_engine(screen, screen_width, screen_height, screen_gutter_size, col
     LIGHTGREY = (200, 200, 200)
 
     # text
-    font = pygame.font.Font("./merge_sort_pygame/ARCADE_R.TTF", 24)
+    font = pygame.font.Font("./ARCADE_R.TTF", 24)
     text_surface = font.render(str("merge sort"), True, LIGHTGREY)
     text_rect = text_surface.get_rect()
     text_rect.center = (screen_width // 2, screen_height // 4)
